@@ -8,8 +8,6 @@
 
 'use strict';
 
-//var async = require('async');
-
 /**
  * Large swathes of this Copyright (c) 2015 the grunt-newer team.
  *
